@@ -1,0 +1,4 @@
+- 👋 Hi, I’m dewangga.pix
+- 👀 I’m interested in coding/photography/film making
+- 🌱 I’m currently learning Git and Github
+- 💞️ I’m looking to collaborate on Github to learn about coding
